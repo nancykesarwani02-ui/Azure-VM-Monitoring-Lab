@@ -13,4 +13,7 @@ This project demonstrates the deployment of an ARM-based Virtual Machine in Azur
 4. Executed a synthetic load test to validate the alerting pipeline.
 ## Results
 Below is the telemetry data showing the CPU spike and the subsequent alert firing:
-![CPU Spike](./images/cpu-spike.png)
+![CPU Spike](./files/CPU&MEM.png)
+![Disk Usage](./files/Disks.png)
+![Network Usage](.files/Network.png)
+![VMoverview](files/VMoverview.png)
