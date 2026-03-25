@@ -16,4 +16,4 @@ Below is the telemetry data showing the CPU spike and the subsequent alert firin
 ![CPU Spike](./files/cpu_mem.png)
 ![Disk Usage](./files/disks.png)
 ![VMoverview](files/vm_overview.png)
-![Network view](files/nancy.png)
+![Network view](files/network.png)
