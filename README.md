@@ -15,5 +15,4 @@ This project demonstrates the deployment of an ARM-based Virtual Machine in Azur
 Below is the telemetry data showing the CPU spike and the subsequent alert firing:
 ![CPU Spike](./files/cpu_mem.png)
 ![Disk Usage](./files/disks.png)
-![Network Usage](.files/network_usage.png)
 ![VMoverview](files/vm_overview.png)
